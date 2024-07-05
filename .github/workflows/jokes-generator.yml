@@ -14,5 +14,4 @@ jobs:
         uses: actions/setup-node@v2
       - name: install joke generator
         uses: actions/jokes
-        run:
-          npm install -g funny-jokes-cli
+        
