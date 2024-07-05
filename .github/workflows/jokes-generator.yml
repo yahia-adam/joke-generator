@@ -13,4 +13,6 @@ jobs:
       - name: install nodejs
         uses: actions/setup-node@v2
       - name: install joke generator
-        run: npm install --global @mikemcbrike/dad-jokes
+        run: npm install --global @mikemcbride/dad-jokes
+      - name: run joke
+        run: dad-jokes
