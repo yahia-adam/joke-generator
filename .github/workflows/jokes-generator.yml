@@ -16,3 +16,10 @@ jobs:
         run: npm install --global @mikemcbride/dad-jokes
       - name: run joke
         run: dad-jokes
+        run: dad-jokes
+        run: dad-jokes
+        run: dad-jokes
+        run: dad-jokes
+        run: dad-jokes
+        run: dad-jokes
+        run: dad-jokes
