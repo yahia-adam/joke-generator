@@ -12,6 +12,5 @@ jobs:
         uses: actions/checkout@v2
       - name: install nodejs
         uses: actions/setup-node@v2
-      - name: install joke generator
-        uses: actions/jokes
+
         
